@@ -93,6 +93,12 @@ select {
     align-items: center;
     transition: all 1s ease;
 }
+.todo-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex: 1 100%;
+}
 
 .filter-todo {
     padding: 1rem;
